@@ -9,8 +9,8 @@
 *.dll
 Source/ref/*.*
 
-!GameData/Fingerboxes/HoloDeck/*
-!GameData/Fingerboxes/Common/*
+!GameData/Fingerboxes/HoloDeck/Plugins/*.*
+!GameData/Fingerboxes/Common/Plugins/*.*
 
 #ignore this
 
