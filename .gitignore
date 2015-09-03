@@ -9,6 +9,9 @@
 *.dll
 Source/ref/*.*
 
+!GameData/Fingerboxes/HoloDeck/Plugins/HoloDeck.dll
+!GameData/Fingerboxes/Common/Plugins/FingerboxLib.dll
+
 #ignore this
 
 # User-specific allows
